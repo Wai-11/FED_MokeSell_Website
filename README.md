@@ -111,3 +111,4 @@ Special thanks to design mentors and online resources for inspiration and guidan
 MokeSell aims to create a seamless and engaging e-commerce experience. Future enhancements will continue to improve usability and features.
 
 https://github.com/Wai-11/FED_MokeSell_Website.git
+https://www.figma.com/design/dSXh0Bc6vaXqBky6AQmVjj/FED-project?node-id=12-3&t=etTOrarcBxhXSOt2-0
