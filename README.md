@@ -1,99 +1,113 @@
-Ducati - Project Overview
-The Ducati website is a modern, responsive platform designed to showcase the latest Ducati superbike to enthusiasts and potential buyers. 
-This project highlights the bike's state-of-the-art specifications, unique features, and premium design through an engaging and visually appealing user interface. 
-The website offers a streamlined browsing experience, making it easy for users to explore the bike's technical specifications, book test rides, and shop for Ducati accessories.
-The goal of this project is to connect Ducati with its customers by providing a seamless platform for enthusiasts to explore, admire, and interact with the Ducati Panigale V4R. 
-This project positions itself as the go-to resource for discovering the full potential of Ducati's flagship model.
+Overview
+
+MMokeSell is a modern e-commerce platform that aims to revolutionize the online shopping and selling experience. The website provides an easy-to-use interface for buyers and sellers, enabling seamless transactions and personalized shopping experiences. Our goal is to create an engaging, secure, and user-friendly marketplace where users can explore a wide range of products, benefit from personalized recommendations, and enjoy exclusive rewards.
 
 Design Process
-This website was designed with Ducati enthusiasts and potential buyers in mind. 
-The primary audience includes motorcycle enthusiasts, collectors, and buyers who are looking for detailed specifications, performance highlights, and exclusive Ducati merchandise.
 
-The design process began with identifying the users' goals, which are:
+The website is designed to cater to both buyers and sellers, ensuring a smooth and efficient shopping experience. Our primary audience includes:
 
-Discovering detailed technical information about the Ducati
-Viewing high-quality images of the motorcycle.
-Booking a test ride or contacting a Ducati dealer.
-Adding products, like the motorcycle itself or accessories, to a shopping cart for purchase.
-User Stories
-As a motorcycle enthusiast, I want to browse detailed specifications and features of the Ducati , so that I can learn more about its capabilities.
-As a potential buyer, I want to book a test ride, so that I can experience the bike before purchasing.
-As an accessory shopper, I want to browse and add items to my cart, so that I can purchase official Ducati gear and parts.
-As a user, I want a responsive website that works well on mobile and desktop, so that I can access the site conveniently from any device.
-Design Assets
-Wireframes and mockups for the website were created using Figma. 
-The wireframes outline the homepage layout, product details page, and shopping cart experience.  
+Online Shoppers: Individuals looking for a convenient and reliable online marketplace.
+
+Sellers & Businesses: Vendors seeking a platform to list their products and reach a broader audience.
+
+User Stories:
+
+As a shopper, I want to browse trending and recommended products so that I can discover the best deals.
+
+As a seller, I want to list my products efficiently so that I can reach potential customers.
+
+As a user, I want a secure and seamless checkout experience so that I can complete purchases with confidence.
+
+As a member, I want to earn rewards and discounts so that I can save money while shopping.
+
+Wireframes & Mockups:
+
+Wireframes and design mockups were created using Adobe XD. The wireframe files are included in a separate directory along with an Adobe XD share link.
 
 Features
+
 Existing Features
-Homepage
-The homepage introduces the Ducati Panigale V4R with a striking hero image, quick links to models, and essential call-to-action buttons.
 
-Product Details Page
-A detailed page showcasing the Panigale V4R's specifications, performance data, and high-quality images. Includes an "Add to Cart" button.
+User Registration & Authentication - Enables users to create accounts and log in securely.
 
-Test Ride Booking
-A dedicated page where users can book a test ride by providing their details.
+Product Listings & Categories - Displays a variety of products with filtering options.
 
-Dealer Locator
-An interactive section that helps users find Ducati dealerships near their location.
+Trending & Recommended Products - Personalized suggestions for a better shopping experience.
 
-Shopping Cart
-Allows users to add items to their cart and proceed to checkout.
+Shopping Cart & Secure Checkout - Ensures a smooth and safe purchasing process.
+
+Membership & Rewards System - Offers loyalty rewards and exclusive deals.
+
+Interactive Memory Game - Engages users with a fun mini-game.
+
+Chatbot Assistance - Helps users with queries and product recommendations.
 
 Features Left to Implement
-User Authentication
-Adding a sign-in/sign-up feature for users to create accounts and track orders.
 
-Interactive 360° Bike Viewer
-Allowing users to explore the motorcycle in a fully interactive 3D environment.
+User Reviews & Ratings - Allow users to rate and review products.
 
-Live Chat Support
-Adding real-time customer support for users with inquiries.
+Live Chat Support - Provide real-time assistance to shoppers.
+
+Mobile App Integration - Expand accessibility to mobile users.
 
 Technologies Used
-HTML & CSS
-The website is built using HTML for semantic structure and CSS for styling.
 
+HTML, CSS, JavaScript - Core frontend technologies for structure, styling, and interactivity.
 
-JavaScript
-Used to add interactivity, such as a responsive navigation menu and dynamic form validations.
+JQuery - Simplifies DOM manipulation.
 
+Figma - Used for wireframing and design mockups.
+External Code Attribution
 
-Figma
-Used for wireframe
+1.account API:ChatGPT was used to help with the implementation of the spotify API
+![image](https://github.com/user-attachments/assets/44689f69-9758-4aea-9004-f629691b33a7)
 
-GitHub
-Used for version control and project hosting.
 
 Testing
-The project underwent extensive manual testing to ensure it met user needs and worked seamlessly across different devices and browsers.
 
-Test Scenarios
-Navigation Bar:
+Manual Testing Scenarios
 
-Verify that all links in the navigation bar redirect to the correct pages.
-Test responsiveness on desktop and mobile views.
+User Authentication:
 
+Attempted login with incorrect credentials to verify error messages.
 
-Browser Compatibility
-The website has been tested on the following browsers:
+Successfully registered and logged in with a valid email and password.
 
-Google Chrome
-Mozilla Firefox
-Microsoft Edge
-Safari (iOS)
+Shopping Cart & Checkout:
+
+Added and removed products from the cart to check functionality.
+
+Completed a test transaction to verify the payment process.
+
+Responsive Design:
+
+Tested on various screen sizes and browsers to ensure responsiveness.
+
+Interactive Features:
+
+Verified chatbot responses and memory game functionality.
+
+Known Issues
+
+Some animations may experience minor lag on mobile devices.
+
+Filtering system needs improvement for better user experience.
 
 Credits
+
 Content
-The technical specifications and descriptions were sourced from the official Ducati website.
+
+Some placeholder text was adapted from Wikipedia articles.
 
 Media
-All images used on the website are official Ducati promotional materials, retrieved from their media kit.
+
+Product images sourced from royalty-free stock image websites.
+google
 
 Acknowledgements
-Special thanks to my instructor for guidance throughout this project and to Ducati's official website for inspiration and resources.
 
-https://github.com/Wai-11/S10270304_Assignment1_new.git
-https://www.figma.com/design/lZaGzMXHP1uDNc9fshAK2i/FED_Assign1?node-id=0-1&t=Vd6Chp3Q66iZGaSK-1
+Special thanks to design mentors and online resources for inspiration and guidance.
 
+MokeSell aims to create a seamless and engaging e-commerce experience. Future enhancements will continue to improve usability and features.
+
+https://github.com/Wai-11/FED_MokeSell_Website.git
